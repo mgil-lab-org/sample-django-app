@@ -25,8 +25,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '=y4jnr$*8&jo2$ako6zea2uxar&*re%)otb3@d@=12ao1ca5=o'
-AWS_ACCESS_KEY_ID = 'AKIAWUQFWACOY54ZVZ0X'
-AWS_SECRET_ACCESS_KEY = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYf2'
+AWS_ACCESS_KEY_ID = 'AKIAYUBS5O3BYC7WBJWO'
+AWS_SECRET_ACCESS_KEY = '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'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
